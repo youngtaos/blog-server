@@ -1,0 +1,11 @@
+{
+  "serviceName": "a-blog-server",
+  "functionNames": [
+    "a-blog-server/schemaController-getLatestOne",
+    "a-blog-server/schemaController-saveSchema"
+  ],
+  "domains": [
+    "schemacontroller-getlatestone.a-blog-server.1245068432143602.cn-hangzhou.fc.devsapp.net",
+    "schemacontroller-saveschema.a-blog-server.1245068432143602.cn-hangzhou.fc.devsapp.net"
+  ]
+}
